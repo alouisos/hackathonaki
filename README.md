@@ -4,6 +4,13 @@ It looks at the url and if there is redirection nothing is being done.
 
 if the url is open it sends phone call and sms
 
+In python interpreter or ipython environment 
+
+import hackathonaki as h 
+h.initiate_process() 
+
+Needs a server to run constantly 
+
 If they open an eventbrite page then you will have to use the 
 
 https://github.com/paulshi/Techcrunch-Disrupt-Hackathon-Ticket-Availability-Notifier
